@@ -1,5 +1,4 @@
-# wake-tools
-Welcome to Wake-Tools – Where JIT comes to live 🚀
+# Welcome to Wake-Tools – Where JIT comes to live 🚀
 
 Wake is not just another runtime — it's a **next-gen Just-In-Time (JIT) engine** designed for developers who want to build **faster, safer, and bolder**.
 
@@ -35,3 +34,5 @@ cd wake
 
 # Build and run your first program
 make myapp.jc
+```
+> **Wake up. Build boldly. JIT Awaken.**
