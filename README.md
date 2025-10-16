@@ -32,16 +32,3 @@ This organization hosts the **Wake ecosystem**:
 > To try it or download the runtime, please register first at:  
 > 👉 [wake.tools/register/register.html](https://wake.tools/register/register.html)  
 >
-> The public GitHub repository will be available after the early access phase.
-
-```bash
-# (Coming soon — public access after early release)
-# Clone Wake
-git clone https://github.com/wake-tools/wake.git
-cd wake
-
-# Build and run your first program
-make myapp.jc
-```
-
-> **Wake up. Build boldly. JIT Awaken.**
