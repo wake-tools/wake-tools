@@ -29,6 +29,7 @@ This organization hosts the **Wake ecosystem**:
 
 > ⚠️ **Early Access Required**  
 > Wake is currently in **closed early access**.  
-> To try it or download the runtime, please register first at:  
+> To download the runtime, please register first at:  
 > 👉 [wake.tools/register/register.html](https://wake.tools/register/register.html)  
 >
+> **Wake up. Build boldly. JIT Awaken.**
